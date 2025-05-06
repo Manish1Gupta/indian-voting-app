@@ -29,4 +29,5 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/indian-voting-app.git
+git clone https://github.com/Manish1Gupta/indian-voting-app/tree/main.git
+
